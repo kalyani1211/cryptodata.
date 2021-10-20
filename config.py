@@ -1,0 +1,2 @@
+API_KEY = 'abc'
+API_SECRET = '123'
